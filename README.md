@@ -1,8 +1,7 @@
 # csgoclicker_tools
-Tools for CSGO Clicker
-## Best CSGO Clicker Exploits Around!
+Best CSGO Clicker Exploits Around!
 
-Bookmarklet Tutorial
+## Bookmarklet Tutorial
 
 1. Copy the script.
 2. Create a bookmark.
