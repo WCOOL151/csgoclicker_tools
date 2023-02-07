@@ -1,6 +1,6 @@
 # csgoclicker_tools
 Tools for CSGO Clicker
-Best CSGO CLicker Exploits Around!
+## Best CSGO Clicker Exploits Around!
 
 Bookmarklet Tutorial
 
