@@ -11,4 +11,4 @@ Best CSGO Clicker Exploits Around!
 
 # Statistics:
 Autoclicker produces about 478,800 cash per hour.
-133 Cash per second.
+133.33 Cash per second.
